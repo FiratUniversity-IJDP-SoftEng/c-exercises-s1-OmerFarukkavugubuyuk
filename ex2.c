@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("Hello World!\n");
     int age;//users age
     int i;//counter
     printf("Please enter your age : ");
